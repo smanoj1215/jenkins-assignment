@@ -1,2 +1,0 @@
-# jenkins-assignment
-jenkins-assignment
